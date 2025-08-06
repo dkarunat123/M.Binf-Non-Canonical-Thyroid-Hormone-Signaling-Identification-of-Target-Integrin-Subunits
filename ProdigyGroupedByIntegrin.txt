@@ -1,0 +1,63 @@
+=== apb1a ===
+Ligand	DGprediction_kcal_per_mol	Kd_M	Rank
+sT3	-7.91	1.590e-06	1
+TRIAC	-7.47	3.341e-06	2
+TETRAC	-7.43	3.574e-06	3
+sT4	-7.22	5.095e-06	4
+T3	-6.91	8.598e-06	5
+T4	-6.69	1.246e-05	6
+
+=== apbc ===
+Ligand	DGprediction_kcal_per_mol	Kd_M	Rank
+sT4	-7.21	5.182e-06	1
+TETRAC	-7.09	6.345e-06	2
+T4	-6.92	8.454e-06	3
+TRIAC	-6.85	9.515e-06	4
+T3	-6.73	1.165e-05	5
+sT3	-6.65	1.334e-05	6
+
+=== apbg ===
+Ligand	DGprediction_kcal_per_mol	Kd_M	Rank
+sT3	-7.65	2.466e-06	1
+TETRAC	-7.24	4.926e-06	2
+TRIAC	-7.21	5.182e-06	3
+sT4	-6.98	7.640e-06	4
+T3	-6.92	8.454e-06	5
+T4	-6.37	2.139e-05	6
+
+=== avb1a ===
+Ligand	DGprediction_kcal_per_mol	Kd_M	Rank
+sT3	-8.23	9.263e-07	1
+TRIAC	-7.52	3.071e-06	2
+sT4	-7.44	3.515e-06	3
+TETRAC	-7.43	3.574e-06	4
+T4	-7.4	3.760e-06	5
+T3	-6.92	8.454e-06	6
+
+=== avb3Full ===
+Ligand	DGprediction_kcal_per_mol	Kd_M	Rank
+sT4	-8.61	4.877e-07	1
+sT3	-8.39	7.071e-07	2
+TRIAC	-7.39	3.824e-06	3
+TETRAC	-7.38	3.889e-06	4
+T3	-7.35	4.091e-06	5
+T4	-7.05	6.789e-06	6
+
+=== avbc ===
+Ligand	DGprediction_kcal_per_mol	Kd_M	Rank
+sT3	-8.2	9.744e-07	1
+sT4	-7.87	1.701e-06	2
+TETRAC	-7.68	2.344e-06	3
+T4	-7.49	3.230e-06	4
+TRIAC	-6.85	9.515e-06	5
+T3	-6.73	1.165e-05	6
+
+=== avbg ===
+Ligand	DGprediction_kcal_per_mol	Kd_M	Rank
+sT3	-8.31	8.093e-07	1
+TRIAC	-7.75	2.083e-06	2
+sT4	-7.66	2.424e-06	3
+TETRAC	-7.53	3.019e-06	4
+T4	-7.3	4.452e-06	5
+T3	-6.9	8.745e-06	6
+
