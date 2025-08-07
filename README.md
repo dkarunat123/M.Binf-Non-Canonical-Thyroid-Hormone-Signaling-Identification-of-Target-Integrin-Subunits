@@ -11,7 +11,7 @@ Using **AlphaFold-Multimer**, candidate sea urchin integrins were structurally m
 
 The results highlight **αVβG** and **αVβ1-A** as promising functional analogs of human αVβ3, based on favorable docking scores and high interface confidence. These findings support a possible conserved mechanism of thyroid hormone interaction in echinoderms, offering insights into the evolution of integrin-mediated signaling.
 
-## References
+## Poster References
 
 Ludwig, B. S., Kessler, H., Kossatz, S., & Reuning, U. (2021). RGD-binding integrins revisited: How recently discovered functions and novel synthetic ligands (re-)shape an ever-evolving field. *Cancers, 13*(7), 1711. https://doi.org/10.3390/cancers13071711
 
@@ -22,3 +22,13 @@ Tieman, K. (in press). *Molecular modeling of αVβ integrins in the sea urchin 
 Tobi, D., & Reichman, D. (2023). Three-dimensional modeling of thyroid hormone metabolites binding to the cancer-relevant αvβ3 integrin: In-silico based study. *International Journal of Molecular Sciences, 24*(13), 10711. https://doi.org/10.3390/ijms241310711
 
 Xiong, J.-P., Mahalingham, B., Alonso, J. L., Borrelli, L. A., Rui, X., Anand, S., Hyman, B. T., Rysiok, T., Müller-Pompalla, D., Goodman, S. L., & Arnaout, M. A. (2004). Crystal structure of the extracellular segment of integrin αVβ3 in complex with an Arg-Gly-Asp ligand. *Science, 303*(5663), 1391–1395. https://doi.org/10.1126/science.1092616
+
+### Figure 1
+
+**(A)** Created with [BioRender.com](https://biorender.com).  
+**(B)** Rendered using **PyMOL**.  
+**(C)** Created using a combination of [BioRender.com](https://biorender.com) and **PyMOL**.  
+**(D)** Created with [BioRender.com](https://biorender.com), *adapted from*:  
+Ludwig, B. S., Kessler, H., Kossatz, S., & Reuning, U. (2021). RGD-binding integrins revisited: How recently discovered functions and novel synthetic ligands (re-)shape an ever-evolving field. *Cancers, 13*(7), 1711. https://doi.org/10.3390/cancers13071711  
+**(E)** Created by **Sarah Locilento** for her *in-progress M.Sc. thesis* (University of Guelph).
+
