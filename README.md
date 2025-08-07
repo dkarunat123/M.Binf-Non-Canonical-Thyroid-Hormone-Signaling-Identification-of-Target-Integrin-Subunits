@@ -28,7 +28,7 @@ Xiong, J.-P., Mahalingham, B., Alonso, J. L., Borrelli, L. A., Rui, X., Anand, S
 
 **(A)** Created with [BioRender.com](https://biorender.com).  
 **(B)** Rendered using **PubChem** and **PyMOL**.  
-**(C)** Created using a combination of [BioRender.com](https://biorender.com) and **PyMOL**.  
+**(C)** Created using [BioRender.com](https://biorender.com) and **PyMOL**.  
 **(D)** Created with [BioRender.com](https://biorender.com), *adapted from (Ludwig et al., 2021).*  
 **(E)** Created by Sarah Locilento (Heyland Lab, University of Guelph) for her *in-progress M.Sc. thesis* (University of Guelph).
 
