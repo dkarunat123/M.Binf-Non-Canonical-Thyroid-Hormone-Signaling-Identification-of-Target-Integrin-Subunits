@@ -23,7 +23,7 @@ Tobi, D., & Reichman, D. (2023). Three-dimensional modeling of thyroid hormone m
 
 Xiong, J.-P., Mahalingham, B., Alonso, J. L., Borrelli, L. A., Rui, X., Anand, S., Hyman, B. T., Rysiok, T., Müller-Pompalla, D., Goodman, S. L., & Arnaout, M. A. (2004). Crystal structure of the extracellular segment of integrin αVβ3 in complex with an Arg-Gly-Asp ligand. *Science, 303*(5663), 1391–1395. https://doi.org/10.1126/science.1092616
 
-### Figure 1
+### Panel 1 Figures:
 
 **(A)** Created with [BioRender.com](https://biorender.com).  
 **(B)** Rendered using **PyMOL**.  
@@ -32,3 +32,11 @@ Xiong, J.-P., Mahalingham, B., Alonso, J. L., Borrelli, L. A., Rui, X., Anand, S
 Ludwig, B. S., Kessler, H., Kossatz, S., & Reuning, U. (2021). RGD-binding integrins revisited: How recently discovered functions and novel synthetic ligands (re-)shape an ever-evolving field. *Cancers, 13*(7), 1711. https://doi.org/10.3390/cancers13071711  
 **(E)** Created by **Sarah Locilento** for her *in-progress M.Sc. thesis* (University of Guelph).
 
+### Panel 3 Figures:
+
+**(A)–(G)** Generated using **AlphaFold-Multimer** structural predictions.  
+Structures were visualized in **PyMOL** and colored by **pLDDT confidence scores** using a custom Python script.
+
+### Panel 3 (cont’d) Figures:
+
+**(A)–(D)** Docked complexes were generated using **HADDOCK 2.5** and visualized in **PyMOL**.
