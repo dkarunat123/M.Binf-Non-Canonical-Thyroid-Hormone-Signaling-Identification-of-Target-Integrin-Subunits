@@ -1,4 +1,5 @@
-# M.Binf-Poster-Non-Canonical-Thyroid-Hormone-Signaling-Identification-of-Target-Integrin-Subunits
+# M.Binf Poster: Identification of Target Integrin Thyroid Hormone Receptors From Sea Urchins
+
 This repository holds files relevant to my Master of Bioinformatics Research Project: Non-Canonical Thyroid Hormone Signaling Identification of Target Integrin Subunits in Metastasis &amp; Development.
 
 ## Project Summary
