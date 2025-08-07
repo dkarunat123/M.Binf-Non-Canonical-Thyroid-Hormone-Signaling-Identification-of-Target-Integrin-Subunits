@@ -5,7 +5,7 @@ This repository holds files relevant to my Master of Bioinformatics Research Pro
 
 This project investigates the potential for **non-canonical thyroid hormone signaling** in sea urchins through **RGD-binding integrin receptors**.
 
-In humans, thyroid hormone metabolites such as T3 and T4 bind to the integrin **αVβ3**, initiating rapid, transcription-independent signaling. While sea urchins lack a direct ortholog of αVβ3, they express several integrin heterodimers—such as **αVβG**, **αVβ1-A**, and **αVβC**—that may serve analogous functions.
+In humans, thyroid hormone metabolites such as T3 and T4 bind to the integrin **αVβ3**, initiating rapid, transcription-independent signaling. While sea urchins lack a direct ortholog of αVβ3, they express several integrin heterodimers (such as **αVβG**, **αVβ1-A**, and **αVβC**) that may serve analogous functions.
 
 Using **AlphaFold-Multimer**, candidate sea urchin integrins were structurally modeled, followed by **molecular docking** of six thyroid hormone metabolites using **HADDOCK 2.5**. Binding affinities were calculated with **PRODIGY**, and structural comparisons with human αVβ3 were performed.
 
