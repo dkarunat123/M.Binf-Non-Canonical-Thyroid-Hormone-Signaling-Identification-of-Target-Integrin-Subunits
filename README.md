@@ -39,3 +39,16 @@ Structures were visualized in **PyMOL** and colored by **pLDDT confidence scores
 ### Panel 3 (cont’d) Figures:
 
 **(A)–(D)** Docked complexes were generated using **HADDOCK 2.5** and visualized in **PyMOL**.
+
+
+### Resources and Tools
+
+- **Echinobase**: [https://www.echinobase.org](https://www.echinobase.org) — Sea urchin genome and transcriptome data.
+- **NCBI BLASTP**: [https://blast.ncbi.nlm.nih.gov/Blast.cgi](https://blast.ncbi.nlm.nih.gov/Blast.cgi) — Used for protein homology searches.
+- **AlphaFold-Multimer**: [https://alphafoldserver.com](https://alphafoldserver.com) — Used for protein structure prediction of integrin dimers.
+- **PubChem**: [https://pubchem.ncbi.nlm.nih.gov](https://pubchem.ncbi.nlm.nih.gov) — Source of thyroid hormone metabolite structures.
+- **Open Babel (Format Converter)**: [https://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html](https://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html) — Used to convert ligand files to PDB format.
+- **HADDOCK 2.4**: [https://rascar.science.uu.nl/haddock2.4/](https://rascar.science.uu.nl/haddock2.4/) — Protein-ligand docking server for AlphaFold-predicted integrins and thyroid hormones.
+- **PRODIGY-LIG**: [https://rascar.science.uu.nl/prodigy/lig](https://rascar.science.uu.nl/prodigy/lig) — Used to obtain ΔG and values from docked complexes.
+
+
