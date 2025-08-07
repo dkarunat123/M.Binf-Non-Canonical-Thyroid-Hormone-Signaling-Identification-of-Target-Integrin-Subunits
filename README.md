@@ -51,5 +51,6 @@ Structures were visualized in **PyMOL** and colored by **pLDDT confidence scores
 - **Open Babel (Format Converter)**: [https://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html](https://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html) — Used to convert ligand files to PDB format.
 - **HADDOCK 2.4**: [https://rascar.science.uu.nl/haddock2.4/](https://rascar.science.uu.nl/haddock2.4/) — Protein-ligand docking server for AlphaFold-predicted integrins and thyroid hormones.
 - **PRODIGY-LIG**: [https://rascar.science.uu.nl/prodigy/lig](https://rascar.science.uu.nl/prodigy/lig) — Used to obtain ΔG and values from docked complexes.
+- **PyMOL**: [https://www.pymol.org](https://www.pymol.org) — Used for molecular visualization of integrin structures, ligands, and docking results.
 
 
