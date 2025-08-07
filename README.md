@@ -26,7 +26,7 @@ Xiong, J.-P., Mahalingham, B., Alonso, J. L., Borrelli, L. A., Rui, X., Anand, S
 ### Panel 1 Figures:
 
 **(A)** Created with [BioRender.com](https://biorender.com).  
-**(B)** Rendered using **PyMOL**.  
+**(B)** Rendered using **PubChem** and **PyMOL**.  
 **(C)** Created using a combination of [BioRender.com](https://biorender.com) and **PyMOL**.  
 **(D)** Created with [BioRender.com](https://biorender.com), *adapted from*:  
 Ludwig, B. S., Kessler, H., Kossatz, S., & Reuning, U. (2021). RGD-binding integrins revisited: How recently discovered functions and novel synthetic ligands (re-)shape an ever-evolving field. *Cancers, 13*(7), 1711. https://doi.org/10.3390/cancers13071711  
